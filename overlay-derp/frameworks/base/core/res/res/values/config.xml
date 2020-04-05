@@ -53,4 +53,8 @@
         <item>com.derp.device.DeviceSettings.TouchKeyHandler</item>
     </string-array>
 
+    <!-- Whether the binned brightness sensor reports a value of 0 on proximity
+         near events -->
+    <bool name="doze_brightness_sensor_reports_proximity">false</bool>
+
 </resources>
